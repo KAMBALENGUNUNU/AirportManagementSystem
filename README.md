@@ -39,7 +39,7 @@ In traditional flight booking systems, managing bookings, flights, and reservati
 ## How to Use
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
-2. **Compile the Program**: Use a C compiler like `gcc`  or CODEBLOCS editor to compile the source code. the user name and password is daniel and daniel
+2. **Compile the Program**: Use a C compiler like `gcc`  or CODEBLOCS editor to compile the source code. the user name and password is daniel and daniel OR kambale and kambale OR knd and knd
 3. **Run the Program**: Execute the compiled program to start the Flight Booking System.
 4. **Navigate the Menu**: Follow the on-screen instructions to navigate through the user or admin modes.
 
@@ -55,6 +55,7 @@ This project aims to provide a simple yet functional flight booking system for u
 - **GUI Implementation**: Extend the program with a graphical user interface (GUI) for a more user-friendly experience.
 
 ## Contact
+
 
 **Developed by**: Kambale Ngununu Daniel
 
