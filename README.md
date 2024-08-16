@@ -14,7 +14,15 @@ The Flight Booking System is a console-based application written in C that allow
 - **Cancel Reservation**: Users can cancel a previously booked flight.
 - **View All Flights**: Users can view all available flights sorted by various criteria.
 
-
+### Admin Mode
+- **Login as Admin**: The system allows admin users to log in with special credentials.
+- **Add Flight**: Admins can add new flights to the system.
+- **Update Flight**: Admins can update existing flight information.
+- **Delete Flight**: Admins can delete flights from the system.
+- **View All Users**: Admins can view all registered users.
+- **View Passengers**: Admins can view all passengers on a particular flight.
+- **Search for Passengers**: Admins can search for passengers using various criteria.
+- **Reinitialize Passengers**: Admins can reinitialize the passenger list for a specific flight.
 
 ## Problem Solved
 
